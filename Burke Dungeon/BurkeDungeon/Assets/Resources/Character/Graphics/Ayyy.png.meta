@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: d0af869b8600bcf44bc5cae8cf1cde6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1066266689590064495
+    second: Ayyy_0
+  - first:
+      213: 3780181023017457714
+    second: Ayyy_1
+  - first:
+      213: -4760831285544512407
+    second: Ayyy_2
+  - first:
+      213: 7825722398052462309
+    second: Ayyy_3
+  - first:
+      213: 5655163793916896163
+    second: Ayyy_4
+  - first:
+      213: 8171245811187732507
+    second: Ayyy_5
+  - first:
+      213: 2368683280400406618
+    second: Ayyy_6
+  - first:
+      213: 863498141832133836
+    second: Ayyy_7
+  - first:
+      213: 7501579745800961542
+    second: Ayyy_8
+  - first:
+      213: -4980642498794562214
+    second: Ayyy_9
+  - first:
+      213: -7396098892371856244
+    second: Ayyy_10
+  - first:
+      213: 756505783710432065
+    second: Ayyy_11
+  - first:
+      213: 6494187898745173472
+    second: Ayyy_12
+  - first:
+      213: -4786483129912631392
+    second: Ayyy_13
+  - first:
+      213: -4192857862536788182
+    second: Ayyy_14
+  - first:
+      213: 4988956791895891485
+    second: Ayyy_15
+  - first:
+      213: -1439618906491075622
+    second: Ayyy_16
+  - first:
+      213: 2202255253443467476
+    second: Ayyy_17
+  - first:
+      213: 792017868864751213
+    second: Ayyy_18
+  - first:
+      213: 5140190015011072507
+    second: Ayyy_19
+  - first:
+      213: 1473567692600209520
+    second: Ayyy_20
+  - first:
+      213: 1058737310852269454
+    second: Ayyy_21
+  - first:
+      213: 5053458398276030849
+    second: Ayyy_22
+  - first:
+      213: -8118738162098409648
+    second: Ayyy_23
+  - first:
+      213: 8981836588851738916
+    second: Ayyy_24
+  - first:
+      213: -4569778133730172770
+    second: Ayyy_25
+  - first:
+      213: 3926980324144704947
+    second: Ayyy_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ayyy_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 322
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7d1d1c73042645956e8f275bcdef0
+      internalID: -1066266689590064495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 324
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceeb1e4aff5ecb4fbdb13ad0f72bfbc
+      internalID: 3780181023017457714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 320
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df99a070a0b2a43a10770576aa960a
+      internalID: -4760831285544512407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 322
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfdd49a5b428154088cb975aed86e41
+      internalID: 7825722398052462309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 324
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcffc4cc41f31d41a1db52b66afc461
+      internalID: 5655163793916896163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb144c4b4de026e4f96173983070ecd8
+      internalID: 8171245811187732507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db030896dfa23a34c87a4cae4f5ded44
+      internalID: 2368683280400406618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 284
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269c9756b3f7df42aae590fbf79320f
+      internalID: 863498141832133836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 280
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8097e3d26790144da9315d45c4aea69
+      internalID: 7501579745800961542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 282
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd664ea342382bd4ab3d09233b6546c9
+      internalID: -4980642498794562214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 284
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399d099786a0de4fb77706df1056902
+      internalID: -7396098892371856244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 282
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfefe78a2dce074cae4630d78bae38f
+      internalID: 756505783710432065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247944ef8d720d6429df6754f8fc7590
+      internalID: 6494187898745173472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 240
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1519b02dd2ae14995f3cd4182396d7
+      internalID: -4786483129912631392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 241
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb6e8e48c237da4ab4dbfc86517bbf7
+      internalID: -4192857862536788182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb164dfc4d2df2e4bb6f22f494c54537
+      internalID: 4988956791895891485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e208009dfcdad468b197f9a74c5dd5
+      internalID: -1439618906491075622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34759caa40741aa42ae2535ab014feae
+      internalID: 2202255253443467476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ab3ff886fa8d4dae432a7b37d11c8
+      internalID: 792017868864751213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b857bb2c2c465468f375c0783e2ff3
+      internalID: 5140190015011072507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 202
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dbb7ebd6074ba4eb1f9753d640713d
+      internalID: 1473567692600209520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2cfe7b9544c3438573ae90802c98f
+      internalID: 1058737310852269454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f0b872e5a16db4d9a4a3a75ae70684
+      internalID: 5053458398276030849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 164
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c005040ed75044d8908b1230097963
+      internalID: -8118738162098409648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 162
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8762ec3b895a5d49a5200ee4ca6597d
+      internalID: 8981836588851738916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf185d87a7454e46b447e511dba46e3
+      internalID: -4569778133730172770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ayyy_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 165
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51d545e8b5837408694cda7076df1a
+      internalID: 3926980324144704947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f3b33d128f5cb88469069c1ef044cf51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
